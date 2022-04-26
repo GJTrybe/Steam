@@ -1,0 +1,25 @@
+-high 
+-novid 
+-nojoy 
+-noforcemaccel 
+-noforcemparms 
+-noforcemspd 
+-noaafonts 
+-noipx 
+-nosync 
+-noubershader 
+
++cl_forcepreload 1 
++mat_queue_mode 2 
++r_dynamic 0 
+-forcenovsync 
+-limitvsconst 
+-r_emulate_gl 
+-softparticlesdefaultoff 
++mat_disable_fancy_blending 1 
+
+-console 
+-condebug 
+-dev 
+-dxlevel 95 
++mat_dxlevel 95 

@@ -1,0 +1,25 @@
+-high 
+-novid 
+-nojoy 
+-lv 
+-noforcemaccel 
+-noforcemparms 
+-noforcemspd 
++mat_hdr_level 0 
++motion_blur_percent_of_screen_max 0 
++fps_max 65 
+
+-forcenovsync 
+-limitvsconst 
+-r_emulate_gl 
+-softparticlesdefaultoff 
++cl_forcepreload 1 
++mat_disable_fancy_blending 1 
++mat_queue_mode 2 
++r_dynamic 0 
+
+-console 
+-condebug 
+-dev 
+-dxlevel 95 
++mat_dxlevel 95 
